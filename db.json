@@ -1,0 +1,61 @@
+{
+    "models":
+            [
+                {
+                    "id": "1",
+                    "name": "Kurt Cobain",
+                    "picture": null,
+                    "firstword": "grunge",
+                    "secondword": "mismatched",
+                    "thirdword": "casual"
+                },
+                {
+                    "id": "2",
+                    "name": "Kate Middleton",
+                    "picture": null,
+                    "firstword": "classic",
+                    "secondword": "polished",
+                    "thirdword": "preppy"
+                },
+                {
+                    "id": "3",
+                    "name": "Jonah Hill",
+                    "picture": null,
+                    "firstword": "playful",
+                    "secondword": "bold",
+                    "thirdword": "casual"
+                },
+                {
+                    "id": "4",
+                    "name": "Kim Kardashian",
+                    "picture": null,
+                    "firstword": "exagerated",
+                    "secondword": "fitted",
+                    "thirdword": "sculptural"
+                },
+                {
+                    "id": "5",
+                    "name": "Jimi Hendrix",
+                    "picture": null,
+                    "firstword": "ornate",
+                    "secondword": "daring",
+                    "thirdword": "bohemian"
+                },
+                {
+                    "id": "6",
+                    "name": "Justin Bieber",
+                    "picture": null,
+                    "firstword": "oversized",
+                    "secondword": "sporty",
+                    "thirdword": "90s"
+                },
+                {
+                    "id": "7",
+                    "name": "Emma Chamberlain",
+                    "picture": "https://i.pinimg.com/564x/a5/69/48/a569485ee90ad614ec2bbdd312d8031c.jpg",
+                    "firstword": "casual",
+                    "secondword": "unexpected",
+                    "thirdword": "cartoonish"
+                }
+            ]
+}
